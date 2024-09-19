@@ -1,3 +1,7 @@
+// Labor2_1.сpp
+// Рибчинський Владислав
+// Лабораторна робота №2.1
+// Варіант 12
 #include <iostream>
 #include <cmath>
 using namespace std;
